@@ -1,0 +1,78 @@
+body
+{
+
+   background:url('fond.jpeg') ;
+   background-size: 100%;
+    
+}
+
+h1
+{
+
+position:fixed;
+right: 45%;
+bottom: 65%;
+ color: Blue;
+  font-size: 60px;
+  font-family: Georgia;
+  text-shadow: 2px 2px 2px black
+ 
+}
+
+h2
+{
+
+position:fixed;
+right: 15%;
+bottom: 65%;
+ color: Blue;
+  font-size: 25px;
+  font-family: Georgia;
+  text-shadow: 2px 2px 2px black
+ 
+}
+
+
+#shape
+{
+	  background: #E3E3E3;
+    margin : center;
+    width:300px;
+    padding:15px;
+    border: 6px  ;
+    border-radius:60px;
+    opacity: 0.6;
+
+}
+
+div#car
+{
+    line-height: 25px ;
+    font-family: Georgia;
+    margin-right: 35px;
+
+
+}
+div#rental
+{
+  font-family:  Georgia;
+
+}
+
+
+button:hover#compute{
+  font-family: Georgia;
+  position:center;
+  background-color:#32CD32;
+color: white;}
+
+.mercedes
+{
+  
+    margin-left: 10px;
+    opacity: 0.8;
+	  width:690px;
+   height:140px;
+   left : 50%;
+}
+
